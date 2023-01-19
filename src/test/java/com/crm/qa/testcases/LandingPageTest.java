@@ -34,7 +34,7 @@ public class LandingPageTest extends TestBase {
     public void ValidateSignUpTest(){
         signuppage=lp.VerifySignUp();
     }
-(This Test gives me error if included,nothings gets executed after this ,all the rest tests gets stopped)
+
     //@Test(priority = 3)
     //public void ValidatelandTitle(){
      //   lp .LandTitle();
