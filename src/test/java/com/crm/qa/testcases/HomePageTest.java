@@ -26,7 +26,8 @@ public class HomePageTest extends TestBase {
     }
 
     @BeforeMethod
-    public void SetUp(){
+    public void SetUp()
+    {
         initialization();
         lp=new LandingPage();
         loginpage=new LoginPage();
